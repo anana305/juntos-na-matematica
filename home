@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Juntos na Matemática!</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500&family=Rokkitt:wght@200&display=swap" rel="stylesheet">
+    
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    
+  </head>
+ 
+
+
+  
+<body>
+  
+  <nav>
+    <ul>
+     <li><a href="index.html">Home</a></li>
+     <li><a href="introdução.html">Introdução</a></li>
+     <li><a href="addition_subtraction.html">Adição e subtração</a></li>
+      <li><a href="multiplication.html">Multiplicação</a></li>
+      <li><a href="division.html">Divisão</a></li>
+    </ul>
+  </nav>
+  
+  <h1>Juntos na matemática!</h1>
+
+  <p>As frações são um dos conceitos mais importantes da matemática. Más, elas podem ser bem difícil de entender. Para ajudar você em seu aprendizado, use este site para treinar os diferentes conceitos das frações. Aproveite!</p>
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
